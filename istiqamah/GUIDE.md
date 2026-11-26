@@ -2,6 +2,14 @@
 
 Everything a fresh session needs to make one day's Instagram post for @istiqamah.digital.
 
+## Founder's standing rules (always)
+
+- Never post, publish or send anything anywhere. Only make the files and save them here; the founder posts herself.
+- Nothing may sound AI-written. Every line must sound like her.
+- Load and follow ALL of these skills for ANY piece of content, every time:
+  `my-writing-style`, `carousel-writer`, `hifdh-storytelling`, `hifdh-sales-structure`, `hifdh-conversion-strategist`.
+  If a skill isn't available in the session, say so in `notes.txt` instead of guessing.
+
 ## What to make each day
 
 1. Open `CALENDAR.md`. Day 1 is the first date in its header; count days from there to today (wrap after day 28).
