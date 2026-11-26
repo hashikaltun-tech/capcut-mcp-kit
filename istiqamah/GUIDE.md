@@ -12,7 +12,7 @@ Everything a fresh session needs to make one day's Instagram post for @istiqamah
 
 ## What to make each day
 
-1. Open `CALENDAR.md`. Day 1 is the first date in its header; count days from there to today (wrap after day 28).
+1. Open `CALENDAR.md`. Day 1 is the first date in its header; count days from there to today (wrap after day 28). If today is before Day 1, make nothing and say so.
 2. Make that day's post: Carousel (5 to 6 slides), Single (1 slide) or Infographic (1 to 3 slides).
 3. Use only that row's topic, pain and cost. Do not invent new topics, pains, claims, quotes or numbers.
 4. Save the finished files to `posts/YYYY-MM-DD/` (slide-01.png ..., or .mp4 for video slides) plus `caption.txt`, then commit and push.
