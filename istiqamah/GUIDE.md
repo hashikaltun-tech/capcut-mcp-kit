@@ -39,11 +39,11 @@ Everything a fresh session needs to make one day's Instagram post for @istiqamah
 - Never shame, never use fear about losing the Qur'an, never present anything as a religious ruling.
 - Any hadith or reward must come from the founder's HIFDH-KNOWLEDGE file with its reference; if it's not available, skip that claim and say so.
 
-## Sales days
+## Pitch days (every even day)
 
 - End on the planner: real `montage.mp4` footage, "That's why I made the Hifdh Planner", one thing it does, "Comment PLANNER and I'll send you the link", "$16.99 one-time".
-- Nurture days may end with a soft planner line or none.
+- Nurture days (every odd day) may end with a soft planner line or none. Nurture can be an infographic, a single post or a carousel.
 
 ## Caption
 
-Skimmable: short lines, the hook idea in a new angle (don't repeat the slides), one "send this to someone who..." line, Comment PLANNER, $16.99 one-time on sales days, 4 hashtags.
+Skimmable: short lines, the hook idea in a new angle (don't repeat the slides), one "send this to someone who..." line, Comment PLANNER, $16.99 one-time on pitch days, 4 hashtags.
